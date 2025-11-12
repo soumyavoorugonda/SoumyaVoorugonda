@@ -8,7 +8,7 @@ Tech I use: Python, TypeScript, React, FastAPI, Next.js, AWS, PostgreSQL, Docker
 
 If you want to chat about projects, AI systems, or just building cool stuff, I’m always open to connect.
 
-[LinkedIn](https://www.linkedin.com/in/soumyavoorugonda/) • [Email](mailto:soumyavoorugonda@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/soumya-voorugonda/) • [Email](mailto:soumyavoorugonda@gmail.com)
 
 <!--
 **soumyavoorugonda/SoumyaVoorugonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
