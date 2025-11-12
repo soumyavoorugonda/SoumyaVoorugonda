@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Hey, I’m Soumya
+
+I’m a software engineer who enjoys turning ideas into working systems.
+
+Right now, I’m building products at startups Veach AI and VeriTX, and experimenting with small side projects to learn something new every week.
+
+Tech I use: Python, TypeScript, React, FastAPI, Next.js, AWS, PostgreSQL, Docker.
+
+If you want to chat about projects, AI systems, or just building cool stuff, I’m always open to connect.
+
+[LinkedIn](https://www.linkedin.com/in/soumyavoorugonda/) • [Email](mailto:soumyavoorugonda@gmail.com)
 
 <!--
 **soumyavoorugonda/SoumyaVoorugonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
